@@ -13,6 +13,7 @@ INIZIO {
         apro il pacchetto
         estraggo le carte dal pacchetto
         butto via il pacchetto appena aperto
+        prendo l'album
         apro l'album
         CICLO controllo le carte una ad una (SE ci sono ancora carte) true{
             SE trovo rara? true {
